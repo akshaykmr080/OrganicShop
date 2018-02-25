@@ -1,3 +1,16 @@
+- An ecommerce website built for ordering organic vegetables.
+- Used Angular 4 and Firebase as the backend service as it was a UI heavy application.
+
+- A web app where in the user could see updates in a realtime fashion.
+- Used Observables and Behaviour Subjects to achieve this asynchronous behavior.
+- Used Bootstrap 4 for styling the UI.
+- Route management using Angular Router
+- Route authentication using AuthGuard
+- Useage of reactive forms to read users data
+
+
+
+
 # OrganicShop
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.1.
