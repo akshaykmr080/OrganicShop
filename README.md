@@ -7,7 +7,7 @@
 - Route management using Angular Router.
 - Route authentication using AuthGuard.
 - Useage of reactive forms to read users data.
-- Structured the application into multiple modules.
+- Structured the application into multiple feature modules.
 
 
 
