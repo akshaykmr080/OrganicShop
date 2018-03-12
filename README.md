@@ -6,7 +6,7 @@
 - Used Bootstrap 4 for styling the UI.
 - Route management using Angular Router.
 - Route authentication using AuthGuard.
-- Useage of reactive forms to read users data.
+- Useage of template driven forms to read users data.
 - Structured the application into multiple feature modules.
 
 
